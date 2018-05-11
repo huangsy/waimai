@@ -1,0 +1,23 @@
+{
+  "name": "waimai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huangsy/waimai.git"
+  },
+  "author": "huangsy1412 <huangsy1412@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huangsy/waimai/issues"
+  },
+  "homepage": "https://github.com/huangsy/waimai#readme",
+  "dependencies": {
+    "commander": "^2.15.1"
+  }
+}
